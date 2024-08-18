@@ -11,3 +11,5 @@ Features:
 - An evaluation of the effect of market concentration on price premiums in health insurance companies at the state level.
 - Several datasets joined together using R.
 - Includes a written paper on the topic.
+
+![Signature](https://github.com/Sketchfellow/ClassProjects/blob/main/MiscMedia/signature.png)

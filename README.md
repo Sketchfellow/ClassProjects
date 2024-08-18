@@ -8,7 +8,7 @@ Features:
 
 ## Econometrics
 Features:
-- An evaluation of the effect of market concentration on price premiums in health insurance companies at the state level.
+- An evaluation of the effect of market concentration on price premiums in health insurance companies at the state level using a quadratic regression model.
 - Several datasets joined together using R.
 - Includes a written paper on the topic.
 
